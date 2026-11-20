@@ -72,11 +72,11 @@ A project focused on organizing hotel operations and managing hotel services.
 - Explore modern technologies.
 - Grow as a Full-Stack Developer.
 
----
-
 ## 📬 Contact
 
 - 📧 **Email:** getatarkie@gmail.com
+-GitHub: https://github.com/getaneh21-hu
+-Telegram:https://t.me/getanehgech
 - 📱 **Phone:** +251 964 422 831
 - 📍 **Location:** Ethiopia
 
