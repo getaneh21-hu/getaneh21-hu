@@ -1,3 +1,6 @@
+
+# To get more information more about me Search by this link:-  https://getaneh21-portfolio.vercel.app
+
 # 👋 Hello, I'm Getaneh Tarkie
 
 **🎓 University Student | 💻 Aspiring Full-Stack Developer**
